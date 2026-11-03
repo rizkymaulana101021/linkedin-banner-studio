@@ -17,6 +17,8 @@ Zero build steps required! Crafted with HTML5 Canvas, Tailwind CSS, and vanilla 
 
 ---
 
+FOR ALL CAN USE THIS BANNER
+
 ## ✨ Features
 
 - 🎯 **LinkedIn Safe Zone Simulator:** Live visual overlay of the circular profile avatar (desktop & mobile positions) to ensure headlines, titles, and faces are never obscured.
